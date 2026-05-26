@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "direito-familia-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Direito-Familia-Adv-OS. Sistema operacional do advogado familista brasileiro — contencioso judicial ponta-a-ponta com IA. Atualizacoes exclusivas para membros da comunidade IA Combativa (assinatura).",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "direito-familia-adv-os",
+      "source": "./direito-familia-adv-os",
+      "description": "Plugin Claude Code/Cowork especializado em Direito de Familia brasileiro — FOCO JUDICIAL. 32 skills cobrindo divorcio litigioso, reconhecimento+dissolucao de uniao estavel, fixacao/revisao/execucao/exoneracao de alimentos (incl. gravidicos + Sum. 309 STJ + Tema 1.137 CNH/passaporte 2026), modificacao de guarda, alienacao parental (Lei 12.318), inventario judicial+ITCMD (com LC 227/2026 atualizada), analise tecnica de laudo psicossocial, tutelas de urgencia (8 modalidades), defesa side-aware e recursos completos (ED, AI CPC 1.015, Apelacao, REsp, RE). 4 Camadas (PA-01 a PA-25 + Protocolo P4 Cruzamento Multi-esfera + Revisao Tecnica R1-R4). Onboarding /start-familia.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "direito-familia-adv-os",
+  "version": "0.1.0-alpha.1",
+  "description": "Plugin Claude Code especializado em Direito de Familia brasileiro — FOCO JUDICIAL (extrajudicial em plugin separado). Atende advogados familistas litigantes em: divorcio litigioso, reconhecimento e dissolucao de uniao estavel, fixacao/revisao/execucao/exoneracao de pensao alimenticia (incl. gravidicos Lei 11.804 + Sum. 309 STJ + execucao CPC 528), modificacao de guarda (CC 1.583+), alienacao parental (Lei 12.318/2010 + pericia psicossocial), inventario judicial (CPC 610+) + ITCMD, e analise tecnica de laudo psicossocial. Cobre PONTA-A-PONTA: triagem inicial via perguntas ao advogado, classificacao do tipo de acao, peticao inicial, defesa/contestacao, tutelas de urgencia (alimentos provisorios, guarda provisoria, busca e apreensao, afastamento do lar), e recursos (ED, apelacao, agravo de instrumento CPC 1.015, REsp, RE). Side-aware (autor/reu, alimentante/alimentando, guardiao/nao-guardiao). Hierarquia de 4 camadas (PA-01 a PA-25 + Protocolos Tecnicos + Cruzamento Multi-esfera familia x criminal Maria da Penha x ECA x sucessoes + Revisao Tecnica R1-R4). Onboarding via /start-familia. 100% configuravel ao perfil do escritorio em runtime.",
+  "author": {
+    "name": "IA Combativa Adv-OS"
+  },
+  "license": "MIT"
+}
