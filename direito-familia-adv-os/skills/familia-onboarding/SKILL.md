@@ -4,6 +4,8 @@ description: >
   FAMILIA ONBOARDING — Wizard de configuracao do plugin direito-familia-adv-os no ambiente do operador. Conduz perguntas estruturadas para criar a pasta direito-familia/ com identidade (nome, OAB, escritorio, cidade), frentes de atuacao (divorcio, UE, alimentos, guarda, alienacao parental, inventario, tutelas, recursos, laudo), tom de voz, modo de melhor saida (litigioso-first / consensual-first / hibrido) e ferramentas. Wizard travado em DIREITO DE FAMILIA JUDICIAL. Use quando o operador disser configurar familia, instalar direito de familia, primeira vez, /start-familia, onboarding familia.
 ---
 
+> **🖱️ Escolhas = botoes:** em campos de **lista fechada** (AREA_FOCO, tom, modo, atualizar/recriar, sim/nao) use a ferramenta **AskUserQuestion** para mostrar **botoes clicaveis** (max. 4 por pergunta; se houver mais, divida em 2). **Texto livre** (nome, OAB, cidade, e-mail) segue como pergunta digitada normal.
+
 # FAMILIA ONBOARDING
 
 > Wizard de configuracao inicial **Tier 0**. Travado em DIREITO DE FAMILIA JUDICIAL. Linguagem acolhedora, tom didatico. Conduz o operador a configurar o plugin ao perfil do escritorio. Privacidade LGPD reforcada (familia trata de dado duplamente sensivel — menor + segredo CPC 189 + vitima VD).
