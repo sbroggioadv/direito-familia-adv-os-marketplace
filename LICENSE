@@ -1,105 +1,66 @@
-LICENCA DE USO — Plugin Direito-Familia-Adv-OS
-Copyright (c) 2026 Sbroggio Advocacia & IA Combativa
-Todos os direitos reservados.
+LICENÇA DE USO — DIREITO FAMILIA ADV-OS
+IA Combativa · © 2026
 
-═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════
 
-1. OBJETO
+1. ESTE REPOSITÓRIO NÃO É SOFTWARE LIVRE
 
-Esta licenca regula o uso do plugin "Direito-Familia-Adv-OS" (o
-"Plugin"), software comercial distribuido via marketplace publico no
-GitHub e adquirido por meio da plataforma Kirvano.
+   O acesso ao código é público por conveniência de instalação, não por
+   gratuidade. O uso é condicionado à aquisição da licença.
 
-═══════════════════════════════════════════════════════════════════════
+   Preço: R$ 298,00 — pagamento único, sem assinatura ou recorrência.
+   Aquisição: https://pay.kirvano.com/fca5a6ac-4b0a-4e8a-a32b-5b8e13c6c629
 
-2. DIREITO DE USO
+2. CONCESSÃO
 
-O adquirente recebe licenca de uso INDIVIDUAL E INTRANSFERIVEL do
-Plugin, restrita ao profissional ou escritorio identificado na compra,
-para uso interno no exercicio da advocacia em direito de familia.
+   Mediante a aquisição, o titular concede ao COMPRADOR licença de uso
+   pessoal, individual e intransferível, sem prazo, da versão adquirida,
+   no seu escritório ou atividade profissional.
 
-VEDADO:
-- Revenda ou redistribuicao a terceiros
-- Compartilhamento da URL do marketplace com outros adquirentes
-  (cada licenca eh nominal)
-- Sublicenciamento
-- Uso da metodologia para criar produto derivado/concorrente
-- Engenharia reversa para extracao da hierarquia de 4 Camadas
+3. VEDAÇÕES
 
-═══════════════════════════════════════════════════════════════════════
+   Salvo autorização escrita e específica do titular, é vedado:
+   • redistribuir, publicar, revender ou sublicenciar o código, no todo
+     ou em parte;
+   • disponibilizar cópia a terceiros, inclusive por fork público,
+     espelho, repositório derivado ou pacote;
+   • usar a marca "IA Combativa" ou apresentar-se como autor, coautor ou
+     revendedor do produto;
+   • remover ou alterar créditos, avisos de licença e identificação de
+     origem.
 
-3. POLITICA DE ATUALIZACOES
+4. FORK E CLONE
 
-3.1 O adquirente recebe a VERSAO ESTAVEL ATUAL do Plugin no momento
-da compra.
+   Forkar ou clonar este repositório a partir de 11/08/2026 implica adesão a
+   esta licença. Quem o fizer deve efetuar o pagamento em
+   https://pay.kirvano.com/fca5a6ac-4b0a-4e8a-a32b-5b8e13c6c629
+   e enviar o comprovante para luis@sbroggio.com.br.
 
-3.2 ATUALIZACOES futuras (novas skills, correcao de jurisprudencia,
-ajustes em normas alteradas, melhorias de protocolo) sao
-EXCLUSIVAS para MEMBROS DA COMUNIDADE IA COMBATIVA mediante
-assinatura ativa.
+   Os forks deste repositório são públicos no GitHub e são registrados
+   pelo titular (data, conta e repositório).
 
-3.3 O adquirente pontual NAO tem direito automatico a versoes
-posteriores. Para mantencao continua, contrate a assinatura
-da comunidade.
+   O titular não pretende cobrança automática nem débito por ato de fork:
+   esta cláusula estabelece a obrigação de pagar pelo uso, cuja exigência
+   se dá pelas vias ordinárias.
 
-3.4 Correcoes criticas de seguranca/LGPD podem ser disponibilizadas
-ao adquirente pontual a criterio do titular dos direitos.
+5. SEM GARANTIA
 
-═══════════════════════════════════════════════════════════════════════
+   O software é fornecido "no estado em que se encontra", sem garantia de
+   qualquer natureza. Não substitui análise profissional nem assegura
+   resultado. A responsabilidade pelo uso é do COMPRADOR.
 
-4. ENTREGAVEL TECNICO
+6. PROPRIEDADE INTELECTUAL
 
-O Plugin eh entregue COMO ESTA. A saida do Plugin (pecas,
-contestacoes, recursos, pareceres, calculos) eh RASCUNHO
-OPERACIONAL sujeito a:
-
-- Revisao do advogado adquirente com OAB ativa
-- Validacao da legislacao vigente na data do peticionamento
-- Adequacao ao caso concreto
-
-A responsabilidade tecnica e etica permanece integralmente do
-advogado, nos termos do Codigo de Etica e Disciplina da OAB.
-
-═══════════════════════════════════════════════════════════════════════
-
-5. LGPD E DADOS DE TERCEIROS
-
-5.1 O adquirente assume responsabilidade integral pelo tratamento
-de dados pessoais e sensíveis de seus clientes nos workspaces
-operacionais do Plugin (LGPD — Lei 13.709/2018).
-
-5.2 Direito de familia processa DADOS DUPLAMENTE SENSIVEIS:
-crianca/adolescente (ECA), vitima de violencia (Maria da Penha),
-saude (laudos psicossociais), e processo em segredo de justica
-(CPC art. 189 II).
-
-5.3 O adquirente NAO deve operar o Plugin em pastas sincronizadas
-(Dropbox, iCloud, Google Drive, OneDrive) onde dados sensiveis
-sejam expostos a servicos de terceiros nao autorizados.
-
-═══════════════════════════════════════════════════════════════════════
-
-6. LIMITACAO DE RESPONSABILIDADE
-
-O Plugin nao substitui o exercicio da advocacia. Nao se responsabiliza
-por:
-
-- Erros decorrentes de uso indevido
-- Desatualizacao da legislacao apos a entrega
-- Decisoes judiciais adversas
-- Vazamento de dados causado por configuracao incorreta do
-  adquirente (pastas sincronizadas, etc.)
-
-═══════════════════════════════════════════════════════════════════════
+   O código, a documentação e os materiais são protegidos pelas Leis
+   9.610/1998 e 9.609/1998. A titularidade permanece com a IA Combativa.
 
 7. FORO
 
-Eleito o foro da Comarca de Sao Jose do Rio Preto - SP, com renuncia
-expressa a qualquer outro por mais privilegiado que seja.
+   Legislação brasileira. Foro: Comarca de São Paulo — SP.
 
-═══════════════════════════════════════════════════════════════════════
+8. CONTATO
 
-Sao Jose do Rio Preto - SP, 26 de maio de 2026.
+   luis@sbroggio.com.br
 
-Sbroggio Advocacia Empresarial & Franchising
-IA Combativa
+═══════════════════════════════════════════════════════════════════
+DIREITO FAMILIA ADV-OS · IA Combativa · licenciamento vigente desde 11/08/2026
