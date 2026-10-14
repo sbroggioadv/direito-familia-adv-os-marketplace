@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '[direito-familia-adv-os] Plugin de direito de familia (contencioso judicial) ativo. Rode /start-familia para configurar.'",
+            "command": "printf '%s\\n' '{\"hookSpecificOutput\": {\"hookEventName\": \"SessionStart\", \"additionalContext\": \"[direito-familia-adv-os] Plugin de direito de familia (contencioso judicial) ativo. Rode /start-familia para configurar.\"}}'",
             "timeout": 5
           }
         ]
